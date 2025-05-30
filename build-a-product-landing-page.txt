@@ -1,0 +1,370 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>The Secret of Stories:The Realm</title>
+</head>
+
+<body>
+  <main>
+   <section class="menu">
+    <div class="heading">
+       <header id="header" class="header"><img class="logo" 
+         id="header-img" 
+         src="https://i.imgur.com/3wFLX0L.jpeg"    alt="Tavern of Forbidden Tales logo" 
+         loading="lazy"
+         />
+      <nav id="nav-bar" 
+           class="navbar">
+        <ul class="nav">
+        <li><a class="nav-link"
+               href="#Information"><em>Information</em></a></li>
+        <li><a class="nav-link"
+               href="#More_from_the_author"><em>More from the author</em></a></li>
+        <li><a class="nav-link"
+               href="#About_the_author"><em>About the author</em></a></li>
+        <li><a class="nav-link"
+               href="#Enquiries"><em>Enquiries</em></a></li>
+        </ul>
+          </nav>
+          </header>
+    </div>
+  </section>
+  
+  <section class="product-title">
+      <header><em>The Secret of Stories: The Realm</em></header>
+      </section>
+      
+    <section class="product-information"><img src="https://i.imgur.com/qwc22bS.jpeg" alt="TSOS kindle markup" class="eBook"/>
+              <div class="info"><header id="Information" 
+    class="information"><em>Information</em></header>
+        <p class="product-details">Product details:</p>
+        <p><ul>
+          <li>The Secret of Stories: The Realm eBook</li>
+          <li>Author: C.D.N. Wilken</li>
+          <li>Language: English</li>
+          <li>File size: 3.3MB</li>
+          <li>Print length: 270 pages</li>
+          <li>Publication date: 5 December 2023</li>
+          <li>Screen Reader: Supported</li>
+          <li>Text-to-speech: Enabled</li>
+          <li>Enhanced typesetting: Enabled</li>
+          <li>Word Wise: Enabled</li>
+          <li>Page flip: Enabled</li>
+        </ul></p>
+<h2 class="description">William loves stories. He’s always been keenly aware of the effects stories have on people’s lives, and yet he’s always wondered how it all works and how it fits together.</h2><h2 class="description">One night, he jolts up as a strange storm rages over the town. He rushes to close his window and sees a mysterious figure standing outside in the dark. He panics as the creature turns to face him, and quickly finds himself on a wild adventure where he discovers the wonders of the realm in much the same way one discovers the ground upon falling from a tree. That night changed everything.</h2>
+<h2 class="description">We begin in the Tavern of Forbidden Tales…</h2></div>
+</section>
+          
+<section class="more-from-author">
+  <header class="more" id="More_from_the_author"><em>More from the author</em></header>
+  <div class="column1">
+      <img class="img2" src="https://i.imgur.com/CO1bjET.jpeg"
+           alt="The secret of Stories dustcover"
+           loading="lazy" />
+      <header class="more-books"><em>The Secret of Stories: The Realm</em></header>
+      <p class="m">This book tells the story of a boy discovering a world lying just beyond the edge of perception. His insatiable curiosity leads him on his journey, and takes him on a fantastic adventure where he discovers the wonders of the realm in much the same way one discovers the ground upon falling from a tree.
+
+William is a boy who loves stories. Stories fill his dreams, spark his imagination, and fuel his creativity, yet he’s always wondered how it all works and how it’s connected.
+
+One night, William jolts up as loud, crashing thunder of a strange storm rages over the town. He rushes to close his window, but sees a mysterious figure standing outside in the dark as lightning dances through the night sky. Terror grips him as it turns to face him, and he stands frozen in the otherworldly glow of the eyes of the creature.</p>
+    </div>
+    <div class="column2">
+      <img class="img1" src="https://i.imgur.com/hOsFh2U.jpeg"
+           alt="Tavern of forbidden tales logo"
+           loading="lazy" />
+      <header class="more-books"><em>The Tavern of Forbidden Tales</em></header>
+        <p class="m">There is a pub where workers go for a drink after work every day, and above its door there is a weathered sign which once proudly showcased a name that has long since been forgotten. Instead, the pub is known by another name, shrouded in mystery.
+
+Its regular customers, known as Gumplegruffs, work at the factory where the story scrolls are made, and whispers of stories that threaten to upset or even destroy the natural balance of the universe, often make their way into the beloved pub, now known as the Tavern of Forbidden Tales.
+
+All stories on this page come from that peculiar tavern.</p>
+    </div>
+    <div class="column3">
+      <img class="img3" src="https://i.imgur.com/OjjeFHq.jpeg"
+           alt="The Eco Friendly Monster"
+           loading="lazy" />
+      <header class="more-books"><em>The Eco Friendly Monster - Coming soon!</em></header>
+      <p class="m">A Monster tries to be eco-friendly but can’t succeed because no matter how hard she tries to live environmentally friendly it seems impossible to keep the environment clean. While going fishing using an environmentally friendly tool which produced a ton of trash, she sees a turtle choking on something that looks like trash she threw out, and becomes sad at the state of the world. After that, a little bunny friend comes to visit her and sees that she’s sad so he suggests to live off her garden rather than buying stuff and supporting big corporations that don’t seem to care about the environment.
+
+The monster then becomes very good at sustainable gardening, and influences all of her friends to work together to make a difference, and ends up impacting the whole city.</p>
+    </div>
+</section>
+
+<section class="social"><p class="follow">Follow C.D.N. Wilken on social media:</p><div class="social-icons">
+       <div class="icon1"><a href="https://www.facebook.com/share/1QcLXBJZKb/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a></div>
+        <div class="icon2"><a href="https://www.instagram.com/forbidden_talestm?igsh=N3Z5Z2kzYTlpN28w"><i class="fab fa-instagram"></i></a></div>
+        <div class="icon3"><a href="https://youtu.be/N-z07C1kQ0s?si=P3M2RhyPPdRULvCx"><i class="fab fa-youtube"></i></a></div>
+        </div></section>
+
+<section class="about-the-author">
+  <header id="About_the_author" 
+          class="about"><em>About the author</em></header>
+    <div class="author1"><p class="author-details">C.D.N. Wilken, pictured on the right with his son William, is a proudly South African author with an innate passion for animals, nature, and keeping the natural wonder of the world alive.
+
+He currently works as an English teacher in Ho Chi Minh City, Vietnam, where he lives with his beautiful wife, Christine, and their two children, a boy and a girl, who are little bundles of never-ending energy. 
+
+His stories are meant to spark readers' imagination, and to encourage them to find adventure wherever it may lurk in their own lives.</p>
+<blockquote>
+  <hr />
+  <p class="quote"><em>'Imagination leads to adventure'</em></p>
+  <hr /> 
+</blockquote>
+</div>
+      <div class="author2">
+      <img src="https://i.imgur.com/mSajDw8.jpeg" 
+           alt="Picture of C.D.N. Wilken with his son" 
+           loading="lazy" class="me"/>
+    </div>
+  </section>
+
+<section>
+  <header id="Enquiries" class="Enquiries"><em>Enquiries</em></header>
+  <p class="customer">Please provide your information for further enquiries</p> 
+  <form id="form" 
+        class="form" 
+        action="https://www.freecodecamp.com/email-submit">
+    <div class="name">Name: <input id="name" for="name"
+           type="name" 
+           placeholder="John Doe"></input></div>
+    <div class="email">E-mail: <input id="email" 
+           name="email" 
+           type="email" 
+          placeholder="johndoe@email.com"></input></div>
+    <div class="text"><p class="query">Enquiry / comments: </p><textarea id="textbox" 
+           name="textbox" 
+           type="textbox"
+           rows="3"
+           cols="47" 
+           placeholder="I would like to pre-order the Eco Friendly Monster..." ></textarea></div>
+    <div class="button1"><input class="submit" id="submit" 
+           type="submit"></input>
+         </div>  
+  </form>
+  </section>
+
+  <section>
+    <button type="button" class="action"><a target="blank" href="https://www.amazon.com/dp/B0CPLH4M58" class="buy"><em>Buy it now!</em></a></button>
+  </section>
+
+  <section>
+    <div class="vid">
+    <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/N-z07C1kQ0s?si=pDXBCSYwmRKyEyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</section>
+
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+* {font-family:baskerville , sans-serif; }
+
+.heading {display:flex; 
+width:100vw; 
+height:9vh; 
+background-color:white; 
+font-family: bradley hand , sans serif; position:fixed; 
+top:0px; 
+overflow:hidden; 
+border-bottom: 1px dotted #32d32d; z-index:1;}
+
+.header {width:100%; justify-content:space-evenly; }
+
+.navbar ul {display:flex; list-style-type:none; justify-content:space-evenly; }
+
+.navbar a {display:inline-block; padding-top:10px; color:rgb(130, 0, 0 ); }
+
+.logo {width:auto; height:100%;float:left; }
+
+.nav { text-align:center; margin-top:5px; font-size: calc(16px + 1vw);  }
+
+.product-title {text-align:center; font-size:3rem; width:100%; margin-top: 80px; color:rgb(130, 0, 0) }
+
+.information {font-size:3rem; color: rgb(130, 0, 0)}
+
+.product-information {
+  display:flex; 
+  text-size: 2rem; 
+  text-align:left;  }
+
+.eBook {
+  width:30vw; 
+  height:550px;
+  margin-top:25px; 
+  margin-left:15px; 
+  float:left; }
+
+.info {float:right; margin-top:25px; margin-left: 40px;
+padding:10px; }
+
+.product-details {font-size: 1.25rem;}
+
+.description {font-size: 1rem; font-weight: 550;}
+
+.more { text-align:left; font-size:3rem; color:rgb(130, 0, 0); margin-top: 25px; margin-left: 10px; margin-bottom:15px;  padding:10px; }
+
+.column1, .column2, .column3 {display:inline-block; vertical-align:top; width:32vw; height:auto; margin:3px; border: 0.5px dotted rgb(130, 0, 0); }
+
+.img1, .img2, .img3 {; height:auto; width: 32vw;  }
+
+.more-books {color:rgb(130, 0, 0); font-size: 1.5rem;}
+
+.m {margin:2px;}
+
+.social {text-align:center; margin-top: -130px; margin-bottom: 80px; margin-left:50px;}
+
+.follow {margin-left:-950px; margin-bottom:25px; }
+
+.social-icons { display: grid;
+  font-size: 3.5rem;
+  grid-template-columns: repeat(5, 1fr);
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  width: 50vw; 
+  z-index:-1; 
+  margin-top:15px; }
+
+.icon1, .icon2, .icon3 {display:inline-block; width:35%;  
+margin-left:135px;}  
+
+.icon2 {}
+
+.icon3 { color:rgb(255, 0, 0); }
+
+.about {text-align:left; font-size:3rem; color:rgb(130, 0, 0); margin-top: 20px; margin-left: 10px; padding:5px; }
+
+.author1, .author2 {display:inline-block; padding:2px; vertical-align:top; }
+
+.author1 {width:65vw;}
+
+.author2 {width:30vw; margin-left:30px; margin-top:-25px; }
+
+.me {width:20vw; height:auto; }
+
+blockquote {text-align:center; margin-top:70px; }
+
+.Enquiries {text-align:left; font-size:3rem; color:rgb(130, 0, 0); margin-top: 20px; margin-left: 10px; padding:5px;}
+
+.vid {text-align:center; margin:5px; padding:50px; }
+
+.customer {font-size:1.5rem; margin-left:10px; }
+
+.form {display:grid; margin-left:10px; padding:5px; }
+
+.name, .email, .text, .button {margin-left: 2px; margin-bottom:20px;  }
+
+.query {margin-top:3px; }
+
+.button1 { margin-left:50px;  }
+
+.submit {width:200px; height:20px;  border:none; color: black;  background-color:rgba(130, 0, 0, 75%); border-radius:8px;  }
+
+.submit:hover {background-color:rgb(130, 0, 0);}
+
+.action { position:fixed; top:180px; left:830px; width:220px; height:40px; border-radius: 25px; font-size:1.5rem; background-color: rgb(50, 205, 50); font-weight:550; }
+
+.buy {color:black; }
+
+.action:hover {background-color:red;}
+
+
+
+
+@media only screen and (max-width:600px) { 
+  
+.heading {display:flex; 
+width:100vw; 
+height:6vh; 
+background-color:white; 
+font-family: bradley hand , sans serif; position:fixed; 
+top:0px; 
+overflow:hidden; 
+border-bottom: 1px dotted #32d32d; z-index:1;}
+
+.header {width:96%; justify-content:space-evenly; }
+
+.navbar ul {display:flex; list-style-type:none; justify-content:space-evenly;}
+
+.navbar a {display:inline-block; margin-left:1px; color:rgb(130, 0, 0 ); }
+
+.logo {width:auto; height:100%;float:left; }
+
+.nav { margin-top: -4px;font-size: calc(8px + 1vw);  }
+
+.product-title {text-align:center; font-size:2rem; width:100%; margin-top: 45px; color:rgb(130, 0, 0) }
+
+.product-information {width:100%; display:grid; }
+
+.information {font-size:1.8rem; margin-top:-60px; }
+
+.eBook {margin-left:50px; width:70%; height:80%;}
+
+.more { text-align:left; font-size:2rem; color:rgb(130, 0, 0); margin-left: 5px; margin-bottom:15px;  padding:10px; }
+
+.column1, .column2, .column3 {display:inline; vertical-align:top; width:32vw; height:auto; margin-left:3px;}
+
+.img1, .img2, .img3 {height:auto; width: 100vw;  }
+
+.more-books {color:rgb(130, 0, 0); font-size: 1.5rem;}
+
+.m {margin:2px;}
+
+.social {text-align:center; margin-top:1px; margin-bottom:10px; margin-left:5px;}
+
+.follow {margin-left:0px; margin-top:30px;margin-bottom:5px; }
+
+.social-icons { display: grid;
+  font-size: 1.5rem; 
+  z-index:-1; 
+  margin-top:15px; }
+
+.icon1, .icon2, .icon3 {display:inline-block; width:32vw; margin-left:1px;}  
+
+.about {text-align:left; font-size:2rem; color:rgb(130, 0, 0); margin-top: 40px; margin-left: 10px; padding:5px; }
+
+.author1, .author2 {display:inline;  }
+
+.author1 {width:65vw;}
+
+.author2 {width:30vw; text-align:center; }
+
+.me {width:90vw; text-align:center; height:auto; margin-top:20px; margin-left:-25px; }
+
+blockquote {text-align:center; margin-top:20px; margin-bottom: 10px; }
+
+.Enquiries {text-align:left; font-size:2rem; color:rgb(130, 0, 0); margin-top: 20px; margin-left: 10px; padding:5px;}
+
+.vid {text-align:center; padding:1px; }
+
+iframe {width:310px; height:180px; }
+
+.customer {font-size:1.5rem; margin-left:10px; }
+
+.form {display:grid; margin-left:10px; padding:5px; }
+
+.name, .email, .text, .button {margin-left: 2px; margin-bottom:20px;  }
+
+.query {margin-top:3px; }
+
+.button1 { margin-left:50px;  }
+
+.submit {width:200px; height:20px;  border:none; color: black;  background-color:rgba(130, 0, 0, 75%); border-radius:8px;  }
+
+.submit:hover {background-color:rgb(130, 0, 0);}
+
+.action { position:fixed; top:22%; left:60%; width:116px; height:40px; border-radius: 25px; font-size:1rem; background-color: rgb(50, 205, 50); font-weight:550; z-index:1; }
+
+
+} 
+
+** end of undefined **
+
